@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Rouaa!
 
-<!--
-**Rouaa-Mechergui/Rouaa-Mechergui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Intelligence student @ IHEC Carthage
+📊 Passionate about data, dashboards, and creative digital projects
+🌱 Currently improving my skills in Python, Power BI, SQL, Java, C# ,HTML, CSS and JavaScript
+✨ Building projects that are simple, smart, and human
 
-Here are some ideas to get you started:
+🔭 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A personal website/portfolio
+
+Interactive BI projects & dashboards
+
+📫 Contact me
+
+💼 LinkedIn: https://www.linkedin.com/in/rouaa-mechergui
+
+📧 Email: mecherguirouaa6@gmail.com
